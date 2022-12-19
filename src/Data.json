@@ -1,0 +1,91 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Anjelika Erik",
+        "price": 29.99,
+        "image": "image/anjelika-erik.jpeg",
+        "desc": "Anjelik erik, hemen hemen yaz mevsimi ile eş zamanlı olarak başlar ve yaz boyunca tadabileceğiniz en lezzetli erik türlerindendir. Yoğun aroması ve mor rengi ile diğer eriklerden bariz bir şekilde ayrışır . Papaz erik ve can eriğe kıyasla daha yumuşaktır. Marmelat ve komposto yapımına çok uygundur."
+      },
+      {
+        "id": 2,
+        "name": "Can Erik",
+        "price": 39.99,
+        "image": "image/can-erik.jpeg",
+        "desc":"Can eriği ılıman iklimlerde ilkbaharda yetişen bir meyvedir. Can eriğinin hasadına Şubat ayında başlanır. Hasat işlemlerine Mayıs ayının sonuna dek devam edilir. Bu ürünü Mart ayından itibaren Haziran ayının sonuna dek satın almak mümkündür."
+      },
+      {
+        "id": 3,
+        "name": "Deveci Armut",
+        "price": 49.99,
+        "image": "image/deveci-armut.jpeg",
+        "desc":"Bu cins armut, Türkiye'ye 35 - 40 yıl kadar önce, Samsunlu girişimci Lütfü Deveci tarafından geliştirilmiş. 'Deveci armudu' adı da Lütfi Deveci'den kalmış. Görüntüsü, iriliği ve lezzeti ile tüm diğer armut çeşitlerinden farklı. Lezzetli ve çok sulu bir armut."
+      },
+      {
+        "id": 4,
+        "name": "Fuji Elma",
+        "price": 29.99,
+        "image": "image/fuji-elma.jpeg",
+        "desc":"Fuji, 1930'lu yılların sonlarında Tohoku Araştırma İstasyonu'nda geliştirilen bir elma melezidir. Adını geliştirildiği kasaba olan Fujisaki'den almakta olup 1962 yılından bu yana pazarlanmaktadır."
+      },
+      {
+        "id": 5,
+        "name": "Golden Elma",
+        "price": 39.99,
+        "image": "image/golden-elma.jpeg",
+        "desc":"Golden delicious elması, kışlık elma çeşididir. Meyvesi orta iri, yuvarlak koniktir. Sapı çok uzundur. Kabuğu donuk sarı-yeşil, çok paslı ve seyrek beneklidir. Eti sıkı, az mayhoş, çok sulu ve hoş kokuludur. Ortalama ağırlığı 136 gramdır."
+      }
+    ],
+    "products2": [
+      {
+        "id": 6,
+        "name": "Gransimit Elma",
+        "price": 49.99,
+        "image": "image/gransimit-elma.jpeg",
+        "desc":"Ağaç kuvvetli ve dik büyür. Düzenli verim verir. Ölü göz oluşumuna meyillidir. Bu nedenle kuvvetli sürgün oluşturmamalı ve dalların uçları kesilerek ölü göz oluşumu önlenmelidir. Meyveleri iri ve küresel şekillidir, yeşil yağlı bir kabuğa sahiptir. Sulu, gevrek, yeme kalitesi iyi hafif asitli, hafif mayhoş kendine has iyi bir aromaya sahiptir. "
+      },
+      {
+        "id": 7,
+        "name": "Mogador Kayısı",
+        "price": 29.99,
+        "image": "image/magador-kayisi.jpeg",
+        "desc":"Yuvarlak şekilli, turuncu zemin üzerine %60 kırmızı renklidir. Erken dönemde çıkan kayısılar içerisinde öne çıkmış bir çeşittir. Dengeli bir tadı vardır ve lezzetlidir."
+      },
+      {
+        "id": 8,
+        "name": "Mondial Gala Elma",
+        "price": 39.99,
+        "image": "image/mondial-gala-elma.jpeg",
+        "desc":"Mondial Gala elma fidanı çok verimli bir elma türüdür. Ağaçları kuvvetli bir yapıya sahiptirMeyveleri olgunlaştığında açık sarı zemin üzerine daha yoğun tonda kırmızı ya da turuncu karışımı bir renkalır. Elmaların dokusu ise sert, sulu, tatlı ve hafif ekşimsi bir tattadır. Hasat dönemleri ise ağustos ayının başlangıç dönemlerinde yapılır."
+      },
+      {
+        "id": 9,
+        "name": "Naşhi Armut",
+        "price": 49.99,
+        "image": "image/nashi-armut.jpeg",
+        "desc":"Naşhi armudu Japon armudu olarak bilinmektedir. Sulu bir yapısı vardır ve çok büyük değildir. Açık kahverengi bir rengi olan, üzerinde hafif sarı benekleri bulunan bu armut elmayı andıran bir görünüme sahiptir."
+      },
+      {
+        "id": 10,
+        "name": "Papaz Erik",
+        "price": 29.99,
+        "image": "image/papaz-erik.jpeg",
+        "desc":"Papaz eriği diye adlandırılan bu erik çeşidi iri ve bol suludur. Mayıs ayı sonunda sezonu başlar ve Haziran ayı boyunca devam eder. Akdeniz'den eriklerimizi kapınıza getiriyoruz. Anavatanı Anadolu olduğu sanılan erik, dünyanın birçok yerine yayılmış ve oldukça çeşitlenmiştir."
+      },
+      {
+        "id": 11,
+        "name": "Pink Lady Elma",
+        "price": 39.99,
+        "image": "image/pink-ledy-elma.jpeg",
+        "desc":"Avustralya orijinli, ağaçları yarı dik ve kuvvetli gelişen çok verimli bir çeşittir.Bodur ve yarı bodur anaçlar üzerimde gelişimi iyidir. Meyveleri orta irilikte, uzun -silindir biçimindedir. Meyve kabuğu açık sarı zemin üzerinde pembe renktedir."
+      },
+      {
+        "id": 12,
+        "name": "Şekerpare Kayısı",
+        "price": 49.99,
+        "image": "image/sekerpare-kayisi.jpeg",
+        "desc":"Şekerpare kayısı diğer adıyla Ziraat Şekerparesi olarak da bilinir. Meyvesi orta irilikte, oval şeklindedir. Kabuk rengi sarı ve güneş gören kısımları kırmızıdır. Şekerpare kayısı et dokusu orta sertlikte, çekirdeği etten ayrı ve çekirdeğin içi tatlıdır."
+      }
+    ]
+  }
+  
