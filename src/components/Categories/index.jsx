@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 // Categories
 import React from 'react';
 import './Categories.css';
@@ -15,9 +16,9 @@ export default function Categories() {
           <img src="image/plum.png" alt="" />
           <h3>Erik</h3>
           <ul>
-            <li>Can Erik</li>
-            <li>Papaz Erik</li>
-            <li>Anjelika Erik</li>
+            <a href="#"><li>Can Erik</li></a>
+            <a href="#"><li>Papaz Erik</li></a>
+            <a href="#"><li>Anjelika Erik</li></a>
           </ul>
         </div>
 
@@ -25,8 +26,8 @@ export default function Categories() {
           <img src="image/pear.png" alt="" />
           <h3>Armut</h3>
           <ul>
-            <li>Naşhi Armut</li>
-            <li>Deveci Armut</li>
+            <a href="#"><li>Naşhi Armut</li></a>
+            <a href="#"><li>Deveci Armut</li></a>
           </ul>
         </div>
 
@@ -34,11 +35,11 @@ export default function Categories() {
           <img src="image/apple.png" alt="" />
           <h3>Elma</h3>
           <ul>
-            <li>Fuji Elma</li>
-            <li>Golden Elma</li>
-            <li>Pink Ledy Elma</li>
-            <li>Gransimit Elma</li>
-            <li>Mondial Gala Elma</li>
+            <a href="#"><li>Fuji Elma</li></a>
+            <a href="#"><li>Golden Elma</li></a>
+            <a href="#"><li>Pink Ledy Elma</li></a>
+            <a href="#"><li>Gransimit Elma</li></a>
+            <a href="#"><li>Mondial Gala Elma</li></a>
           </ul>
         </div>
 
@@ -46,8 +47,8 @@ export default function Categories() {
           <img src="image/apricot.png" alt="" />
           <h3>Kayısı</h3>
           <ul>
-            <li>Magador Kayısı</li>
-            <li>Şekerpare Kayısı</li>
+            <a href="#"><li>Magador Kayısı</li></a>
+            <a href="#"><li>Şekerpare Kayısı</li></a>
           </ul>
         </div>
       </div>

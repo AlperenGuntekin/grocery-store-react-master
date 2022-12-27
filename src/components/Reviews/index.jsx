@@ -1,3 +1,4 @@
+/* eslint-disable max-len */
 // Reviews
 import React from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
@@ -37,14 +38,11 @@ export default function Reviews() {
         >
           <SwiperSlide>
             <div className="box">
-              <img src="image/pic-1.png" alt="" />
+              {/* <img src="image/pic-1.png" alt="" /> */}
               <p>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Omnis
-                maxime inventore illo nemo cupiditate quam eligendi nihil sunt
-                ullam, laudantium, earum in nam provident quaerat
-                exercitationem?
+                Ürünler çok lezzetli ve tazeydi. Hizmetler de çok iyiydi, özellikle teslimat hızlı ve kolaydı.
               </p>
-              <h3>john deo</h3>
+              <h3>Elif Öztürk</h3>
               <div className="stars">
                 <FontAwesomeIcon icon={faStar} />
                 <FontAwesomeIcon icon={faStar} />
@@ -56,14 +54,11 @@ export default function Reviews() {
           </SwiperSlide>
           <SwiperSlide>
             <div className="box">
-              <img src="image/pic-2.png" alt="" />
+              {/* <img src="image/pic-2.png" alt="" /> */}
               <p>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Omnis
-                maxime inventore illo nemo cupiditate quam eligendi nihil sunt
-                ullam, laudantium, earum in nam provident quaerat
-                exercitationem?
+                Ürünler çok kaliteli ve sağlıklı. Hizmetler de çok iyi, özellikle müşteri hizmetleri ekibi çok yardımsever ve ilgiliydi.
               </p>
-              <h3>john deo</h3>
+              <h3>Can Çelik</h3>
               <div className="stars">
                 <FontAwesomeIcon icon={faStar} />
                 <FontAwesomeIcon icon={faStar} />
@@ -75,14 +70,11 @@ export default function Reviews() {
           </SwiperSlide>
           <SwiperSlide>
             <div className="box">
-              <img src="image/pic-3.png" alt="" />
+              {/* <img src="image/pic-3.png" alt="" /> */}
               <p>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Omnis
-                maxime inventore illo nemo cupiditate quam eligendi nihil sunt
-                ullam, laudantium, earum in nam provident quaerat
-                exercitationem?
+                Ürünler gerçekten çok lezzetli ve taze. Ayrıca, paketleme de çok iyiydi. Teslimat da çok hızlı oldu.
               </p>
-              <h3>john deo</h3>
+              <h3>Selin Demir</h3>
               <div className="stars">
                 <FontAwesomeIcon icon={faStar} />
                 <FontAwesomeIcon icon={faStar} />
@@ -94,14 +86,11 @@ export default function Reviews() {
           </SwiperSlide>
           <SwiperSlide>
             <div className="box">
-              <img src="image/pic-4.png" alt="" />
+              {/* <img src="image/pic-4.png" alt="" /> */}
               <p>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Omnis
-                maxime inventore illo nemo cupiditate quam eligendi nihil sunt
-                ullam, laudantium, earum in nam provident quaerat
-                exercitationem?
+                Ürünler gerçekten çok lezzetli ve taze. Ayrıca, paketleme de çok iyiydi. Teslimat da çok hızlı oldu.
               </p>
-              <h3>john deo</h3>
+              <h3>Emre Yılmaz</h3>
               <div className="stars">
                 <FontAwesomeIcon icon={faStar} />
                 <FontAwesomeIcon icon={faStar} />

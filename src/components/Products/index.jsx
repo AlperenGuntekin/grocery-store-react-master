@@ -6,6 +6,7 @@ import { faStar, faStarHalfAlt } from '@fortawesome/free-solid-svg-icons';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import SwiperCore, { Autoplay } from 'swiper';
 import 'swiper/swiper.min.css';
+// import { Link } from 'react-router-dom';
 import Data from '../../Data.json';
 
 export default function Products() {

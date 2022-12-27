@@ -37,3 +37,12 @@ ul {
   text-decoration-line: none;
   list-style-type: none;
 }
+
+a {
+  color: #130f40;
+}
+
+a:hover {
+  color: #29541c;
+  font-weight: bold;
+}
